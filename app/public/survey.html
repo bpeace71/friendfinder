@@ -129,7 +129,7 @@
         <hr>
         <footer class="footer">
             <div class="container">
-                <p><a href="/api/friends">API Friends List</a> | <a href="https://github.com/afhaque/friendfinder">GitHub Repo</a></p>
+                <p><a href="https://github.com/afhaque/friendfinder">GitHub Repo</a></p>
             </div>
         </footer>
     </div>
@@ -189,7 +189,7 @@
 
             var currentURL = window.location.origin;
 
-            $.post(currentURL + "/api/friends", userData, function(data) {
+            $.post(currentURL + "/data/friends", userData, function(data) {
 
                 $("#matchName").text(data.name);
                 $('#matchImg').attr("src", data.photo);
