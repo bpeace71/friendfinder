@@ -2,7 +2,7 @@
 var friendsArray = [
 	{
 		name: 'Harry Potter',
-		photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
+		photo: 'https://hdwallsource.com/img/2014/8/harry-potter-39946-40875-hd-wallpapers.jpg',
 		scores: [
 			'1',
 			'5',
@@ -18,7 +18,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Hermione Granger',
-		photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+		photo: 'https://vignette.wikia.nocookie.net/harrypotter/images/0/0a/Hermione_Granger_OOTP_promo_f_1.jpg/revision/latest?cb=20120413221757',
 		scores: [
 			'2',
 			'4',
@@ -34,7 +34,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Ron Weasley',
-		photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
+		photo: 'https://upload.wikimedia.org/wikipedia/en/5/5e/Ron_Weasley_poster.jpg',
 		scores: [
 			'4',
 			'3',
@@ -50,7 +50,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Luna Lovegood',
-		photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+		photo: 'https://images.pottermore.com/bxd3o8b291gf/Wxu9GUqdYkq2aSswUaaAu/2b2e413fc3b0d81938fb14c36ef5ba45/LunaLovegood_WB_F6_LunaLovegoodPromoShot_Promo_080615_Port.jpg?w=320&q=85',
 		scores: [
 			'5',
 			'1',
@@ -66,7 +66,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Neville Longbottom',
-		photo: 'http://4.bp.blogspot.com/-HTvSYzA-pO4/UgQb4Zh_u0I/AAAAAAAAEuI/XwhtogT_1tA/s1600/3+cute2.jpg',
+		photo: 'https://vignette.wikia.nocookie.net/harrypotter/images/2/20/NevilleHBP.jpg/revision/latest?cb=20141122220929',
 		scores: [
 			'1',
 			'1',
@@ -82,7 +82,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Ginny Weasly',
-		photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
+		photo: 'https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/b/40/b402a776-942a-11e3-b3c3-0017a43b2370/52fbe468ec796.image.jpg',
 		scores: [
 			'1',
 			'1',
@@ -98,7 +98,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Seamus Finnegan',
-		photo: 'http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-feb-2014-billboard-650.jpg',
+		photo: 'https://images.pottermore.com/bxd3o8b291gf/3AIPltW688yYGguoOacqOE/9d800f9ecaecccf70fef41225f11adbf/SeamusFinnigan_WB_F4_SeamusFinniganGrabbingHisCloak_Promo_080615_Port.jpg?w=1200',
 		scores: [
 			'5',
 			'4',
@@ -114,7 +114,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Cho Chang',
-		photo: 'https://i1.imgiz.com/data/videoshots/6829/6829475-6461.jpg',
+		photo: 'https://vignette.wikia.nocookie.net/harrypotter/images/8/88/Cho-chang1.jpg/revision/latest?cb=20161217054602',
 		scores: [
 			'5',
 			'2',
@@ -130,7 +130,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Lavender Brown',
-		photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
+		photo: 'https://vignette.wikia.nocookie.net/harrypotter/images/8/80/Jessie-Cave-M1.jpg/revision/latest?cb=20110719012047',
 		scores: [
 			'5',
 			'5',
@@ -146,7 +146,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Parvati Patil',
-		photo: 'http://1rjm5qg4v8732kpmn44ya6bj-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/elmo-6601.png',
+		photo: 'https://vignette.wikia.nocookie.net/harrypotter/images/1/10/PromoHP4_Parvati_Patil_2.jpg/revision/latest/scale-to-width-down/350?cb=20141115100111&path-prefix=fr',
 		scores: [
 			'1',
 			'1',
